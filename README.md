@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&desc=I'm%20Minh%20Nhat%20(Nathan)&descAlign=50&descAlignY=60" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,30&height=300&section=header&text=Nguyen%20Ngoc%20Minh%20Nhat&fontSize=70&fontColor=ffffff&desc=Data%20Engineer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+AI+Engineer;Building+Lakehouse+Architectures;Real-time+Streaming+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=Building+Scalable+Data+Lakehouses;Real-time+Streaming+Expert;Deep+Learning+%26+Computer+Vision;AWS+Certified+Cloud+Practitioner" alt="Typing SVG" />
   </a>
 </div>
 
@@ -24,11 +24,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final-year **Data Engineering** student at **HCMC University of Technology and Education (HCMUTE)**.
-- 🔭 I’m currently working on **End-to-End Data Lakehouse** & **RAG AI Systems**.
-- 🌱 I’m deeply interested in **Big Data Technologies (Spark, Kafka, Iceberg)** and **Deep Learning**.
-- 💼 Looking for **Internship / Fresher** opportunities in Data & AI Engineering.
-- ⚡ **Fun fact:** I can communicate complex data concepts as effectively as I teach English grammar!
+- [cite_start]🎓 Final-year **Data Engineering** student at **HCMC University of Technology and Education (HCMUTE)**[cite: 8, 9].
+- [cite_start]🔭 I specialize in building **End-to-End Data Lakehouse** architectures & **RAG AI Systems**[cite: 30, 37].
+- [cite_start]☁️ **AWS Certified Cloud Practitioner** with a strong grasp of cloud infrastructure[cite: 14].
+- [cite_start]💡 Experience as a **Teaching Assistant** at Really English Center, honing communication and mentoring skills[cite: 11].
+- [cite_start]💼 Looking for **Internship / Fresher** opportunities in Data & AI Engineering[cite: 32].
 
 ---
 
@@ -52,10 +52,19 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[🛡️ Smart Security Lakehouse & AI](https://github.com/minhnhat1206/violence-detection-system)** | `Spark` `Kafka` `Iceberg` `Gemini API` `RAG` | Real-time surveillance system detecting violence using Edge AI, streaming metadata to a Lakehouse for analysis and natural language querying. |
-| **[📢 Reddit Streaming Lakehouse](https://github.com/huy-dataguy/reddit-streaming-lakehouse)** | `Spark` `Kafka` `Airflow` `Trino` `Superset` | End-to-end pipeline ingesting live Reddit discussions for Sentiment Analysis and community trend monitoring using Medallion Architecture. |
-| **[📊 Real-time Web Log Analytics](https://github.com/hungfnguyen/realtime-log-analytics)** | `Spark` `Flume` `InfluxDB` `Grafana` | Centralized logging system monitoring Nginx servers in real-time to detect anomalies and visualize traffic patterns. |
-| **[🚕 NYC Taxi Lakehouse](https://github.com/huy-dataguy/NYC-Taxi-Lakehouse)** | `Spark` `Delta Lake` `MinIO` `Superset` | High-volume streaming pipeline analyzing NYC traffic data for driver performance and customer behavior insights. |
+| **[🛡️ Smart Security Lakehouse](https://github.com/minhnhat1206/violence-detection-system)** | `Spark` `Kafka` `Iceberg` `RAG` | [cite_start]Real-time violence detection system combining Edge AI with a Medallion Lakehouse architecture[cite: 34, 35]. |
+| **[♻️ Synthetic Waste Classif.](https://github.com/minhnhat1206/synthetic-waste-classification)** | `PyTorch` `CNN` `Transfer Learning` | [cite_start]Solved data scarcity in waste classification using Synthetic Data & Deep CNNs (ResNet, DenseNet)[cite: 51, 52]. |
+| **[📢 Reddit Streaming Lakehouse](https://github.com/huy-dataguy/reddit-streaming-lakehouse)** | `Spark` `Kafka` `Airflow` `Trino` | [cite_start]End-to-end pipeline ingesting live Reddit discussions for Sentiment Analysis using Medallion Architecture[cite: 43, 44]. |
+| **[📊 Real-time Web Log Analytics](https://github.com/hungfnguyen/realtime-log-analytics)** | `Spark` `Flume` `InfluxDB` `Grafana` | [cite_start]Centralized logging system monitoring Nginx servers in real-time to detect anomalies[cite: 39, 40]. |
+
+---
+
+### 🏆 Certifications & Achievements
+
+* [cite_start]🏅 **AWS Certified Cloud Practitioner** - Amazon Web Services [cite: 14]
+* [cite_start]🎯 **TOEIC 910/990** (Listening & Reading) [cite: 14]
+* [cite_start]🏆 **Top 7**, Mastering IT Competition [cite: 15]
+* [cite_start]🥉 **Third Prize**, English Speaking Contest (District Level) [cite: 16]
 
 ---
 
@@ -68,11 +77,6 @@
 
 <br>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhnhat1206&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
 <div align="center">
   <i>"Data implies something about every object in the universe, and we are the ones who listen."</i>
 </div>
