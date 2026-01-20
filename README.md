@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0,2,30&height=300&section=header&text=Nguyen%20Ngoc%20Minh%20Nhat&fontSize=70&fontColor=ffffff&desc=Data%20Engineer%20%7C%20AI%20Enthusiast&descAlign=50&descAlignY=60&animation=fadeIn" width="100%"/>
+    <img src="https://readme-components.vercel.app/api?component=header&title=Nguyen+Ngoc+Minh+Nhat&subtitle=Data+Engineer+%7C+AI+Enthusiast&theme=dark&kumiko=true&color=3B82F6" width="100%" alt="Header Background"/>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
   <a href="mailto:nguyennhathcmute@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <a href="https://www.linkedin.com/in/nh%E1%BA%ADt-minh-52987b3a6/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/minhnhat1206">
