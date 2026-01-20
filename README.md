@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://readme-components.vercel.app/api?component=header&title=Nguyen+Ngoc+Minh+Nhat&subtitle=Data+Engineer+%7C+AI+Enthusiast&theme=dark&kumiko=true&color=3B82F6" width="100%" alt="Header Background"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=900&size=60&pause=1000&color=FFFFFF&background=130F40&center=true&vCenter=true&width=1000&height=300&lines=NGUYEN+NGOC+MINH+NHAT;DATA+ENGINEER+%7C+AI+ENTHUSIAST" alt="Typing SVG" style="background-image: url('https://user-images.githubusercontent.com/69156954/197876556-c9479864-2042-4b83-8704-5513738f609d.png'); background-size: cover; border-radius: 15px;"/>
 </div>
 
 <div align="center">
