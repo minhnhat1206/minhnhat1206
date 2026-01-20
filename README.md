@@ -24,11 +24,11 @@
 
 ### 👨‍💻 About Me
 
-- [cite_start]🎓 Final-year **Data Engineering** student at **HCMC University of Technology and Education (HCMUTE)**[cite: 8, 9].
-- [cite_start]🔭 I specialize in building **End-to-End Data Lakehouse** architectures & **RAG AI Systems**[cite: 30, 37].
-- [cite_start]☁️ **AWS Certified Cloud Practitioner** with a strong grasp of cloud infrastructure[cite: 14].
-- [cite_start]💡 Experience as a **Teaching Assistant** at Really English Center, honing communication and mentoring skills[cite: 11].
-- [cite_start]💼 Looking for **Internship / Fresher** opportunities in Data & AI Engineering[cite: 32].
+- 🎓 Final-year **Data Engineering** student at **HCMC University of Technology and Education (HCMUTE)**.
+- 🔭 I specialize in building **End-to-End Data Lakehouse** architectures & **RAG AI Systems**.
+- ☁️ **AWS Certified Cloud Practitioner** with a strong grasp of cloud infrastructure.
+- 💡 Experience as a **Teaching Assistant** at Really English Center, honing communication and mentoring skills.
+- 💼 Looking for **Internship / Fresher** opportunities in Data & AI Engineering.
 
 ---
 
@@ -52,19 +52,22 @@
 
 | Project | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **[🛡️ Smart Security Lakehouse](https://github.com/minhnhat1206/violence-detection-system)** | `Spark` `Kafka` `Iceberg` `RAG` | [cite_start]Real-time violence detection system combining Edge AI with a Medallion Lakehouse architecture[cite: 34, 35]. |
-| **[♻️ Synthetic Waste Classif.](https://github.com/minhnhat1206/synthetic-waste-classification)** | `PyTorch` `CNN` `Transfer Learning` | [cite_start]Solved data scarcity in waste classification using Synthetic Data & Deep CNNs (ResNet, DenseNet)[cite: 51, 52]. |
-| **[📢 Reddit Streaming Lakehouse](https://github.com/huy-dataguy/reddit-streaming-lakehouse)** | `Spark` `Kafka` `Airflow` `Trino` | [cite_start]End-to-end pipeline ingesting live Reddit discussions for Sentiment Analysis using Medallion Architecture[cite: 43, 44]. |
-| **[📊 Real-time Web Log Analytics](https://github.com/hungfnguyen/realtime-log-analytics)** | `Spark` `Flume` `InfluxDB` `Grafana` | [cite_start]Centralized logging system monitoring Nginx servers in real-time to detect anomalies[cite: 39, 40]. |
+| **[🛡️ Smart Security Lakehouse](https://github.com/minhnhat1206/violence-detection-system)** | `Spark` `Kafka` `Iceberg` `RAG` | Real-time violence detection system combining Edge AI with a Medallion Lakehouse architecture. |
+| **[📊 Real-time Web Log Analytics](https://github.com/hungfnguyen/realtime-log-analytics)** | `Spark` `Flume` `InfluxDB` `Grafana` | Centralized logging system monitoring Nginx servers in real-time to detect anomalies. |
+| **[📢 Reddit Streaming Lakehouse](https://github.com/huy-dataguy/reddit-streaming-lakehouse)** | `Spark` `Kafka` `Airflow` `Trino` | End-to-end pipeline ingesting live Reddit discussions for Sentiment Analysis using Medallion Architecture. |
+| **[♻️ Synthetic Waste Classif.](https://drive.google.com/drive/folders/1qrQGr7fHp-gFEmzYE20yfHO7Q4Kv9qR3?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExMUE0ampJT2J0SE5rdUZhTwEeJMxOGbLoDDRoyf7mzsaN9w7zMnMKHpfar5dJSJNuE0Hr8qzB8tpK1KXC2OY_aem_NXRLeYYvECkPNM7VRFy1AQ)** | `PyTorch` `CNN` `Transfer Learning` | Solved data scarcity in waste classification using Synthetic Data & Deep CNNs (ResNet, DenseNet). |
+| **[📈 US Accidents DWH](https://github.com/duonghieu7104/US_Accidents_DWH)** | `SQL Server` `SSIS` `SSAS` `Power BI` | Built a comprehensive Data Warehouse to analyze US traffic accident data (2016-2023) and identify risk factors. |
+| **[🎮 Nintendo Market Analysis](https://github.com/duonghieu7104/Nintendo-Data-Analysis)** | `Python` `NLP` `LDA` `Pandas` | Market research on Nintendo Switch using Sentiment Analysis and LDA to propose hardware improvements. |
+| **[🏫 UTExLMS System](https://github.com/huy-dataguy/UTExLMS)** | `C#` `SQL Server` `Entity Framework` | Database-driven Learning Management System enabling course management with MVVM architecture. |
 
 ---
 
 ### 🏆 Certifications & Achievements
 
-* [cite_start]🏅 **AWS Certified Cloud Practitioner** - Amazon Web Services [cite: 14]
-* [cite_start]🎯 **TOEIC 910/990** (Listening & Reading) [cite: 14]
-* [cite_start]🏆 **Top 7**, Mastering IT Competition [cite: 15]
-* [cite_start]🥉 **Third Prize**, English Speaking Contest (District Level) [cite: 16]
+* 🏅 **AWS Certified Cloud Practitioner** - Amazon Web Services
+* 🎯 **TOEIC 910/990** (Listening & Reading)
+* 🏆 **Top 7**, Mastering IT Competition
+* 🥉 **Third Prize**, English Speaking Contest (District Level)
 
 ---
 
