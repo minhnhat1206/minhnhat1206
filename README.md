@@ -1,16 +1,78 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=250&section=header&text=Hello%20World!&fontSize=70&fontColor=ffffff&desc=I'm%20Minh%20Nhat%20(Nathan)&descAlign=50&descAlignY=60" width="100%"/>
+</div>
 
-<!--
-**minhnhat1206/minhnhat1206** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=333333&center=true&vCenter=true&width=600&lines=Data+Engineer+%7C+AI+Engineer;Building+Lakehouse+Architectures;Real-time+Streaming+Expert;Deep+Learning+Enthusiast" alt="Typing SVG" />
+  </a>
+</div>
 
-Here are some ideas to get you started:
+<div align="center">
+  <a href="mailto:nguyennhathcmute@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/minhnhat1206">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Final-year **Data Engineering** student at **HCMC University of Technology and Education (HCMUTE)**.
+- 🔭 I’m currently working on **End-to-End Data Lakehouse** & **RAG AI Systems**.
+- 🌱 I’m deeply interested in **Big Data Technologies (Spark, Kafka, Iceberg)** and **Deep Learning**.
+- 💼 Looking for **Internship / Fresher** opportunities in Data & AI Engineering.
+- ⚡ **Fun fact:** I can communicate complex data concepts as effectively as I teach English grammar!
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+| **Category** | **Technologies** |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) |
+| **Big Data** | ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white) ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat-square&logo=apachehadoop&logoColor=black) ![Hive](https://img.shields.io/badge/Hive-FDEE21?style=flat-square&logo=apachehive&logoColor=black) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white) |
+| **Lakehouse & DB** | ![Trino](https://img.shields.io/badge/Trino-DD00A1?style=flat-square&logo=trino&logoColor=white) ![Iceberg](https://img.shields.io/badge/Iceberg-223?style=flat-square&logo=apache&logoColor=white) ![MinIO](https://img.shields.io/badge/MinIO-C72C48?style=flat-square&logo=minio&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) |
+| **AI & ML** | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **DevOps & Cloud** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) |
+
+</div>
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Tech Stack | Description |
+| :--- | :--- | :--- |
+| **[🛡️ Smart Security Lakehouse & AI](https://github.com/minhnhat1206/violence-detection-system)** | `Spark` `Kafka` `Iceberg` `Gemini API` `RAG` | Real-time surveillance system detecting violence using Edge AI, streaming metadata to a Lakehouse for analysis and natural language querying. |
+| **[📢 Reddit Streaming Lakehouse](https://github.com/huy-dataguy/reddit-streaming-lakehouse)** | `Spark` `Kafka` `Airflow` `Trino` `Superset` | End-to-end pipeline ingesting live Reddit discussions for Sentiment Analysis and community trend monitoring using Medallion Architecture. |
+| **[📊 Real-time Web Log Analytics](https://github.com/hungfnguyen/realtime-log-analytics)** | `Spark` `Flume` `InfluxDB` `Grafana` | Centralized logging system monitoring Nginx servers in real-time to detect anomalies and visualize traffic patterns. |
+| **[🚕 NYC Taxi Lakehouse](https://github.com/huy-dataguy/NYC-Taxi-Lakehouse)** | `Spark` `Delta Lake` `MinIO` `Superset` | High-volume streaming pipeline analyzing NYC traffic data for driver performance and customer behavior insights. |
+
+---
+
+### 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=minhnhat1206&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Minh Nhat's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhnhat1206&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhnhat1206&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+<div align="center">
+  <i>"Data implies something about every object in the universe, and we are the ones who listen."</i>
+</div>
